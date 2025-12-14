@@ -1,46 +1,96 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\smester 2\\OOP\\week7\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\smester 2\\oop\\week7\\consoleapp1\\consoleapp1\\product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\customer\\customerrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\customer\\customerrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customerrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|d:\\smester 2\\oop\\week7\\project\\consoleapp1\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\order\\orderrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\orderrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\order\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|D:\\smester 2\\OOP\\week7\\Project\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F7360C-E871-484B-ABAB-DADECFC0FE41}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,128 +100,306 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepoDb.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductRepoDb.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Product\\ProductRepoDb.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerService.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:17:40.272Z",
+              "WhenOpened": "2025-11-16T22:44:45.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerService.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
-              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepoDb.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:08:03.128Z"
+              "WhenOpened": "2025-11-03T19:28:35.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomerUI.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerUI.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
-              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerUI.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwH0AAAA6AAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Order\\OrderService.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Order\\OrderService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:07:50.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Shop.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Shop.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
-              "RelativeToolTip": "ConsoleApp1\\Shop.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:48:51.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerModel.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerModel.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
-              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:04:44.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerRepoDb.cs",
-              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerRepoDb.cs",
-              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerRepoDb.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T11:58:21.796Z",
+              "WhenOpened": "2025-11-03T19:02:29.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "OrderRepoDB.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderRepoDB.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Order\\OrderRepoDB.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderRepoDB.cs",
+              "RelativeToolTip": "ConsoleApp1\\Order\\OrderRepoDB.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:02:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderUI.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Order\\OrderUI.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\Order\\OrderUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:02:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Shop.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp1\\Shop.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:01:59.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Order\\OrderModel.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Order\\OrderModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:02:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Order\\OrderItem.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Order\\OrderItem.cs",
+              "RelativeToolTip": "ConsoleApp1\\Order\\OrderItem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:03:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerModel.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:44:30.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductService.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product\\ProductService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:58:23.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductUI.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:28:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepoDb.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:27:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductModel.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Product\\ProductModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:54:35.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Customer\\CustomerUI.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\Customer\\CustomerUI.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:05:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\Project\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:02:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepoDb.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductRepoDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:17:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:08:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:07:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Shop.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:48:51.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:04:44.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRepoDb.cs",
+              "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Customer\\CustomerRepoDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:58:21.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductModel.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductModel.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductModel.cs",
               "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductModel.cs",
-              "RelativeToolTip": "ConsoleApp1\\Product\\ProductModel.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductModel.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T16:14:20.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "ProductUI.cs",
               "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductUI.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductUI.cs",
               "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductUI.cs",
-              "RelativeToolTip": "ConsoleApp1\\Product\\ProductUI.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductUI.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T16:50:13.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductService.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductService.cs",
               "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Product\\ProductService.cs",
-              "RelativeToolTip": "ConsoleApp1\\Product\\ProductService.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Product\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T16:50:24.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\smester 2\\OOP\\week7\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T11:19:59.075Z"

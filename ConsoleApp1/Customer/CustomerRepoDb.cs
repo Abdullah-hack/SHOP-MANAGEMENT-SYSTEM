@@ -11,7 +11,32 @@ namespace ConsoleApp1.Customer
     {
         public readonly string connectionDb = "Server=LAPTOP-S4KN40Q4;Database=POS;Trusted_Connection=True";
 
-        
+        public bool Create(CustomerModel customer)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionDb))
+            {
+                string query = "INSERT INTO Customers(Name, Age, Contact, Adress)" +
+                                "VALUES (@name, @age, @contact, @adress)";
+                connection.Open();
+
+                SqlCommand cmd = new SqlCommand(query, connection);
+                cmd.Parameters.AddWithValue("@name", customer.name);
+                cmd.Parameters.AddWithValue("@age", customer.age);
+                cmd.Parameters.AddWithValue("@contact", customer.contact);
+                cmd.Parameters.AddWithValue("@adress", customer.adress);
+
+                int rowsAffected = cmd.ExecuteNonQuery();
+                if (rowsAffected > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+
+        }
 
 
         public bool Update(CustomerModel customer)
